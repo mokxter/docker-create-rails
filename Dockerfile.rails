@@ -1,5 +1,5 @@
 FROM ruby:2.7
-MAINTAINER ianbuena081191@gmail.com
+LABEL maintainer=ianbuena081191@gmail.com
 
 ARG USER_ID
 ARG GROUP_ID
